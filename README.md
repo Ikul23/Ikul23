@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ikul23
-- 👀 I’m interested in C#
+- 👀 I’m interested in C#,JAVA, Python, Linux
 - 🌱 I’m currently learning C#, SQL
 - 💞️ I’m looking to collaborate on IT projects
 - 📫 How to reach me https://t.me/ikul23
