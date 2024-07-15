@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on IT projects
 - 📫 How to reach me https://t.me/ikul23
 
-<!---
+
 My name is Igor Kuleshov, and I am an entry-level developer with experience in Java, Python, CSS, HTML, and JavaScript programming languages. I have knowledge of PostgreSQL (pgAdmin4) and the FastAPI framework. I also possess a basic understanding of object-oriented programming (OOP) and the Model-View-Controller (MVC) architectural pattern.
 
 Practical Experience
@@ -16,4 +16,4 @@ Developed a chat bot for Telegram.
 Практический опыт
 Создание эндпоинта для получения сообщений во фреймворке FastAPI.
 Разработка чат-бота для Telegram.
---->
+
