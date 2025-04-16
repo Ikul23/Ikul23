@@ -1,23 +1,46 @@
-- 👋 Hi, I’m @Ikul23
-- 👀 I’m interested in PHP,JS, React, NodeJS, Python, Linux
-- 🌱 I’m currently learning C#, SQL, JS, React, Python
-- 💞️ I’m looking to collaborate on IT projects
-- 📫 How to reach me https://t.me/ikul23
+### 👋 Hi, I'm Igor Kuleshov (@Ikul23)
+**Full-Stack Developer** specializing in Laravel, React, and Node.js with DevOps experience
 
+🚀 **Core Stack:**
+- **Backend:** PHP (Laravel), Node.js, FastAPI
+- **Frontend:** React (SPA), JavaScript/TypeScript, HTML5/CSS3
+- **Databases:** PostgreSQL, MySQL
+- **DevOps:** Docker, CI/CD, Render deployments
+- **Testing:** Jest, PHPUnit
+- **Other:** Python, Linux server administration
 
-My name is Igor Kuleshov, and I am an entry-level developer with experience in Java, Python, CSS, HTML, and JavaScript programming languages. I have knowledge of PostgreSQL (pgAdmin4) and the FastAPI framework. I also possess a basic understanding of object-oriented programming (OOP) and the Model-View-Controller (MVC) architectural pattern.
+### 💼 Professional Highlights
+- Built full-stack applications using **Laravel + React SPA** architecture
+- Developed and deployed containerized applications with **Docker**
+- Implemented CI/CD pipelines for automated testing and deployment
+- Created RESTful APIs with proper MVC structure and authentication
+- Experience with **Render** cloud platform for application hosting
+- Strong understanding of modern JavaScript (ES6+) and React hooks
 
-Practical Experience
-Created an endpoint for receiving messages using the FastAPI framework.
-Developed a chat bot for Telegram.
+### 🌱 Currently Improving
+- Advanced React patterns (state management, performance optimization)
+- Microservices architecture with Node.js
+- Test-Driven Development (TDD) with Jest
+- Serverless architectures
 
-Examples of my work can be found on my GitHub profile.
+### 🛠 Recent Projects
+- [Laravel+React SPA Application]() - Full-stack project with Docker deployment
+- [Node.js Microservice]() - Scalable backend service with JWT auth
+- [Telegram Bot Integration]() - Custom chatbot with webhook support
 
-Меня зовут Игорь Кулешов, я начинающий разработчик с опытом работы с языками программирования Java, Python, CSS, HTML и JavaScript. У меня есть знания по работе с PostgreSQL (pgAdmin4) и фреймворками FastAPI. Я также обладаю базовыми знаниями объектно-ориентированного программирования (ООП) и архитектурного шаблона Model-View-Controller (MVC).
+### 📫 How to Reach Me
+- Telegram: [https://t.me/ikul23](https://t.me/ikul23)
+- Email: [your.professional@email.com]()
+- LinkedIn: [Your LinkedIn Profile]()
 
-Практический опыт
-Создание эндпоинта для получения сообщений во фреймворке FastAPI.
-Разработка чат-бота для Telegram.
+---
 
-С примерами моих работ можно ознакомиться в моем профиле на GitHub.
+### 👋 Привет, я Игорь Кулешов (@Ikul23)
+**Full-Stack разработчик** с опытом работы с Laravel, React и Node.js
 
+🔧 **Ключевые технологии:**
+- Laravel, React (SPA), Node.js
+- Docker, PostgreSQL, Jest
+- JavaScript/TypeScript, PHP, Python
+
+💡 Ищу интересные проекты, где смогу применить свой full-stack опыт и развиваться профессионально.
