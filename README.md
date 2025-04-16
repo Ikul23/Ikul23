@@ -30,7 +30,7 @@
 
 ### 📫 How to Reach Me
 - Telegram: [https://t.me/ikul23](https://t.me/ikul23)
-- Email: [your.professional@email.com]()
+- Email: [kompaniya.gisplyus@bk.ru]()
 - LinkedIn: [Your LinkedIn Profile]()
 
 ---
