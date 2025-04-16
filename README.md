@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ikul23
-- 👀 I’m interested in JS, React, NodeJS, Python, Linux
+- 👀 I’m interested in PHP,JS, React, NodeJS, Python, Linux
 - 🌱 I’m currently learning C#, SQL, JS, React, Python
 - 💞️ I’m looking to collaborate on IT projects
 - 📫 How to reach me https://t.me/ikul23
