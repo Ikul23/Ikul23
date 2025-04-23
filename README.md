@@ -1,38 +1,37 @@
-### 👋 Hi, I'm Igor Kuleshov (@Ikul23)
-**Full-Stack Developer** specializing in Laravel, React, and Node.js with DevOps experience
+## 👋 Igor Kuleshov (@Ikul23)  
+**FinTech Full-Stack Developer | Ex-Economist | Engineer-Physicist**  
+📍 Targeting opportunities in China (FinTech/Blockchain)  
 
-🚀 **Core Stack:**
-- **Backend:** PHP (Laravel), Node.js, FastAPI
-- **Frontend:** React (SPA), JavaScript/TypeScript, HTML5/CSS3
-- **Databases:** PostgreSQL, MySQL
-- **DevOps:** Docker, CI/CD, Render deployments
-- **Testing:** Jest, PHPUnit
-- **Other:** Python, Linux server administration
+🚀 **Expertise:**  
+- **FinTech Development:** Payment systems, algorithmic trading, risk analysis  
+- **Full-Stack:** Laravel, React, Node.js, FastAPI  
+- **DevOps:** Docker, CI/CD (Render, AWS)  
+- **Data & Analytics:** Python (Pandas, NumPy), SQL (PostgreSQL, MySQL)  
 
-### 💼 Professional Highlights
-- Built full-stack applications using **Laravel + React SPA** architecture
-- Developed and deployed containerized applications with **Docker**
-- Implemented CI/CD pipelines for automated testing and deployment
-- Created RESTful APIs with proper MVC structure and authentication
-- Experience with **Render** cloud platform for application hosting
-- Strong understanding of modern JavaScript (ES6+) and React hooks
+### 🔥 **Highlight Projects**  
+#### [InvestCalc Platform](https://invest-calc-2ypa.onrender.com/)  
+(Laravel + React SPA)  
+- Financial portfolio calculator with real-time data integration  
+- JWT auth, REST API, Dockerized deployment  
+- **Tech:** React Hooks, Laravel MVC, PostgreSQL  
 
-### 🌱 Currently Improving
-- Advanced React patterns (state management, performance optimization)
-- Microservices architecture with Node.js
-- Test-Driven Development (TDD) with Jest
-- Serverless architectures
+#### [Banking Data Analyzer](https://github.com/your-repo) (Python)  
+- Automated financial report analysis for SMBs  
+- Pandas for data processing, Matplotlib/Seaborn visualization  
 
-### 🛠 Recent Projects
-- [Laravel+React SPA Application]() - Full-stack project with Docker deployment
-- [Node.js Microservice]() - Scalable backend service with JWT auth
-- [Telegram Bot Integration]() - Custom chatbot with webhook support
+#### [Crypto Trading Bot](https://github.com/your-repo) (Node.js)  
+- Binance API integration for algorithmic trading  
+- Backtesting engine with risk management  
 
-### 📫 How to Reach Me
-- Telegram: [https://t.me/ikul23](https://t.me/ikul23)
-- Email: [kompaniya.gisplyus@bk.ru]()
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/igor-kuleshov-758848b6)
+### 📊 **Education**  
+- **Financial University under RF Government** (Economics, Accounting)  
+- **NUST MISIS** (Engineer-Physicist, Metallurgy)  
+- **GeekBrains** (Full-Stack Developer Certification)  
 
+📫 **Contact:**  
+- LinkedIn: [igor-kuleshov-758848b6](www.linkedin.com/in/igor-kuleshov-758848b6)  
+- Telegram: [@ikul23](https://t.me/ikul23)  
+- Email: kompaniya.gisplyus@bk.ru  
 ---
 
 ### 👋 Привет, я Игорь Кулешов (@Ikul23)
