@@ -31,7 +31,7 @@
 ### 📫 How to Reach Me
 - Telegram: [https://t.me/ikul23](https://t.me/ikul23)
 - Email: [kompaniya.gisplyus@bk.ru]()
-- LinkedIn: [Your LinkedIn Profile]()
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/igor-kuleshov-758848b6)
 
 ---
 
