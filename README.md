@@ -9,19 +9,11 @@
 - **Data & Analytics:** Python (Pandas, NumPy), SQL (PostgreSQL, MySQL)  
 
 ### 🔥 **Highlight Projects**  
-#### [InvestCalc Platform](https://invest-calc-2ypa.onrender.com/)  
+#### [InvestCalc Platform](https://investcalc.tech/)  
 (Laravel + React SPA)  
 - Financial portfolio calculator with real-time data integration  
 - JWT auth, REST API, Dockerized deployment  
-- **Tech:** React Hooks, Laravel MVC, PostgreSQL  
-
-#### [Banking Data Analyzer](https://github.com/your-repo) (Python)  
-- Automated financial report analysis for SMBs  
-- Pandas for data processing, Matplotlib/Seaborn visualization  
-
-#### [Crypto Trading Bot](https://github.com/your-repo) (Node.js)  
-- Binance API integration for algorithmic trading  
-- Backtesting engine with risk management  
+- **Tech:** React Hooks, Laravel MVC, PostgreSQL
 
 ### 📊 **Education**  
 - **Financial University under RF Government** (Economics, Accounting)  
@@ -31,7 +23,7 @@
 📫 **Contact:**  
 - LinkedIn: [igor-kuleshov-758848b6](www.linkedin.com/in/igor-kuleshov-758848b6)  
 - Telegram: [@ikul23](https://t.me/ikul23)  
-- Email: kompaniya.gisplyus@bk.ru  
+- Email: ikul23@icloud.com
 ---
 
 ### 👋 Привет, я Игорь Кулешов (@Ikul23)
